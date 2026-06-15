@@ -38,9 +38,9 @@ export default function App() {
     "Pegadingan_Cipari": { kelurahan: "Pegadingan", kecamatan: "Cipari", kabupaten: "Cilacap", kode_pos: "53262" },
     "Segaralangu_Cipari": { kelurahan: "Segaralangu", kecamatan: "Cipari", kabupaten: "Cilacap", kode_pos: "53262" },
     "Mulyadadi_Cipari": { kelurahan: "Mulyadadi", kecamatan: "Cipari", kabupaten: "Cilacap", kode_pos: "53262" },
-    "Karangreja_Cimanggu": { kelurahan: "Karangreja", kecamatan: "Cimanggu", kabupaten: "Cilacap", kode_pos: "53253" },
-    "Rejodadi_Cimanggu": { kelurahan: "Rejodadi", kecamatan: "Cimanggu", kabupaten: "Cilacap", kode_pos: "53253" },
-    "Cimanggu_Cimanggu": { kelurahan: "Cimanggu", kecamatan: "Cimanggu", kabupaten: "Cilacap", kode_pos: "53253" }
+    "Karangreja_Cimanggu": { kelurahan: "Karangreja", kecamatan: "Cimanggu", kabupaten: "Cilacap", kode_pos: "53256" },
+    "Rejodadi_Cimanggu": { kelurahan: "Rejodadi", kecamatan: "Cimanggu", kabupaten: "Cilacap", kode_pos: "53256" },
+    "Cimanggu_Cimanggu": { kelurahan: "Cimanggu", kecamatan: "Cimanggu", kabupaten: "Cilacap", kode_pos: "53256" }
   };
 
   const handleDocChange = (e) => {
